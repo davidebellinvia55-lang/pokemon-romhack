@@ -57,5 +57,5 @@ Thumbs.db
 .DS_Store
 
 # Poryscript
-tools\poryscript
-tools\poryscript.exe
+tools/poryscript
+tools/poryscript.exe
